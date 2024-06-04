@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+.folder {
+  cursor: pointer;
+  background-color: rgb(233, 233, 233);
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  padding: 3px;
+}
+
+.file {
+  display: flex;
+  flex-direction: column;
+}
